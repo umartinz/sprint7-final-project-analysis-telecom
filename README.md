@@ -15,12 +15,6 @@ El dataset `usage` incluye  el detalle de uso real entre estos las llamadas (dur
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/drive/1Q1IYqHwiODTK8UjAFZ6beAKTUT4qkFUy))](URL_DEL_NOTEBOOK_EN_GITHUB)
-
-O:
-
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
