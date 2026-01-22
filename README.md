@@ -17,7 +17,7 @@ El dataset `usage` incluye  el detalle de uso real entre estos las llamadas (dur
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](/content/S7 Version-Estudiante-Project-ConnectaTel.ipynb))](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/drive/1Q1IYqHwiODTK8UjAFZ6beAKTUT4qkFUy))](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O:
 
